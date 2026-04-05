@@ -6,7 +6,7 @@ A real-time NYC subway arrival board built on an **ESP32** microcontroller and a
 
 ---
 
-![Display working in the wild](display_working2.jpg)
+![Display working in the wild](display_working3.jpg)
 
 ---
 
